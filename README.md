@@ -6,3 +6,8 @@ Misc tips for iOS development
 - cd ~/Library/Developer/Xcode
 - rm -rf DerivedData
 - [Source](https://twitter.com/johnsundell/status/982274922528563200)
+
+## Dotzu, In-app logging tool
+- Swift and Objective-C compatible
+- Install through Cocoapods
+- [Source](https://github.com/remirobert/Dotzu)
