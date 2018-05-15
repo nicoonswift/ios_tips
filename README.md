@@ -3,6 +3,7 @@ Misc tips for iOS development
 - Xcode
 - Debugging
 - UI Testing
+- App Store
 
 ## Xcode
 
@@ -29,3 +30,7 @@ Misc tips for iOS development
 ### Doubling localized Strings
 - Use NSDoubleLocalizedString as a launch argument
 - [Source](https://twitter.com/JordanMorgan10/status/976611947767521285)
+
+## App Store
+- Guidelines
+- [Source](https://developer.apple.com/app-store/guidelines/)
