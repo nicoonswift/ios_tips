@@ -40,3 +40,7 @@ Misc tips for iOS development
 ## App Store
 - Guidelines
 - [Source](https://developer.apple.com/app-store/guidelines/)
+
+## In-app purchases
+- [Testing Auto-Renewable Subscriptions on iOS](http://davidbarnard.com/post/164337147440/testing-auto-renewable-subscriptions-on-ios)
+- [How to Set Up and Test an Auto-Renewable Subscription for an iOS App](https://savvyapps.com/blog/how-setup-test-auto-renewable-subscription-ios-app)
