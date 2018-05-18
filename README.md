@@ -1,10 +1,10 @@
 # iOS development tips
 Misc tips for iOS development
-- Swift
-- Xcode
-- Debugging
-- UI Testing
-- App Store
+- [Swift](https://github.com/nigarcia88/ios_tips#swift)
+- [Xcode](https://github.com/nigarcia88/ios_tips#xcode)
+- [Debugging](https://github.com/nigarcia88/ios_tips#debugging)
+- [UI Testing](https://github.com/nigarcia88/ios_tips#ui-testing)
+- [App Store](https://github.com/nigarcia88/ios_tips#app-store)
 
 ## Swift
 
