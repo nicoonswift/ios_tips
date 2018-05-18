@@ -5,6 +5,7 @@ Misc tips for iOS development
 - [Debugging](https://github.com/nigarcia88/ios_tips#debugging)
 - [UI Testing](https://github.com/nigarcia88/ios_tips#ui-testing)
 - [App Store](https://github.com/nigarcia88/ios_tips#app-store)
+- [In-app purchases](https://github.com/nigarcia88/ios_tips#in-app-purchases)
 
 ## Swift
 
