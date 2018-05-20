@@ -13,6 +13,11 @@ Misc tips for iOS development
 ### The Official raywenderlich.com Swift Style Guide
 - [Source](https://github.com/raywenderlich/swift-style-guide)
 
+### Learning sources
+- [Objc.io](https://www.objc.io/)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
+
 ## Xcode
 
 ### Free HD space used by Xcode's derived data.
