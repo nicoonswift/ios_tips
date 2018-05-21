@@ -55,6 +55,7 @@ Misc tips for iOS development
 - [Best practices Technical Note TN2387](https://developer.apple.com/library/content/technotes/tn2387/_index.html#//apple_ref/doc/uid/DTS40014795-CH1-BEST_PRACTICES-TEST_YOUR_IMPLEMENTATION_OF_IN_APP_PURCHASE)
 - [FAQ Technical Note TN2413](https://developer.apple.com/library/content/technotes/tn2413/_index.html)
 - [In-App Purchase Debugging Lessons](http://www.mokacoding.com/blog/in-app-purchase-debugging-lessons/)
+- [What to do if In-App Purchases stop working?](https://kemenaran.winosx.com/posts/ios-developer-what-to-do-if-in-app-purchases-stop-working/)
 
 ## Apple
 - [System status](https://www.apple.com/support/systemstatus/)
