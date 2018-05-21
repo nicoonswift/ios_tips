@@ -53,6 +53,7 @@ Misc tips for iOS development
 - [How to Set Up and Test an Auto-Renewable Subscription for an iOS App](https://savvyapps.com/blog/how-setup-test-auto-renewable-subscription-ios-app)
 - [Five In-App Purchase Mistakes to Avoid](https://cocoacasts.com/five-in-app-purchase-mistakes-to-avoid)
 - [Best practices Technical Note TN2387](https://developer.apple.com/library/content/technotes/tn2387/_index.html#//apple_ref/doc/uid/DTS40014795-CH1-BEST_PRACTICES-TEST_YOUR_IMPLEMENTATION_OF_IN_APP_PURCHASE)
+- [FAQ Technical Note TN2413](https://developer.apple.com/library/content/technotes/tn2413/_index.html)
 
 ## Apple
 - [System status](https://www.apple.com/support/systemstatus/)
