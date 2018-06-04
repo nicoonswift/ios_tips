@@ -1,5 +1,6 @@
 # iOS development tips
 Misc tips for iOS development
+* [Best Practices](https://github.com/nigarcia88/ios_tips#best-practices)
 * [Swift](https://github.com/nigarcia88/ios_tips#swift)
 * [Xcode](https://github.com/nigarcia88/ios_tips#xcode)
 * [Debugging](https://github.com/nigarcia88/ios_tips#debugging)
@@ -7,6 +8,10 @@ Misc tips for iOS development
 * [App Store](https://github.com/nigarcia88/ios_tips#app-store)
 * [In-app purchases](https://github.com/nigarcia88/ios_tips#in-app-purchases)
 * [Apple](https://github.com/nigarcia88/ios_tips#apple)
+
+## Best Practices
+
+* [iOS-Factor](https://ios-factor.com): A methodology for building high-quality iOS apps on a solid architecture
 
 ## Swift
 
