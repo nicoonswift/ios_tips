@@ -12,6 +12,7 @@ Misc tips for iOS development
 ## Best Practices
 
 * [iOS-Factor](https://ios-factor.com): A methodology for building high-quality iOS apps on a solid architecture
+* [Microfeatures Guidelines](https://github.com/xcode-project-manager/microfeatures-guidelines)
 
 ## Swift
 
