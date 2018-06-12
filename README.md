@@ -50,6 +50,10 @@ Misc tips for iOS development
 * Use NSDoubleLocalizedString as a launch argument
 * [Source](https://twitter.com/JordanMorgan10/status/976611947767521285)
 
+
+### Using Localized Strings
+* [Source](https://www.pixeldock.com/blog/how-to-use-your-localizable-strings-in-your-xcode-uitests/)
+
 ## App Store
 * Guidelines
 * [Source](https://developer.apple.com/app-store/guidelines/)
