@@ -68,6 +68,7 @@ Misc tips for iOS development
 * [What to do if In-App Purchases stop working?](https://kemenaran.winosx.com/posts/ios-developer-what-to-do-if-in-app-purchases-stop-working/)
 * [The Definitive Guide to In-App Purchases Using Swift](https://www.airpair.com/ios/posts/swift-storekit-in-app-purchases)
 * [What should the app do in response to a deferred SKPaymentTransaction?](https://stackoverflow.com/questions/26187148/what-should-the-app-do-in-response-to-a-deferred-skpaymenttransaction/26371545#26371545)
+* [App Store Receipt Validation](https://github.com/IdeasOnCanvas/AppReceiptValidator)
 
 ## Apple
 * [System status](https://www.apple.com/support/systemstatus/)
