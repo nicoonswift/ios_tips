@@ -37,6 +37,15 @@ Misc tips for iOS development
 * defaults write com.apple.dt.Xcode DVTDeveloperAccountUseKeychainService -bool NO
 * [Source](https://stackoverflow.com/questions/49675844/xcode-9-3-session-expires-every-time-i-close-and-re-open-xcode)
 
+### Easy-open project/workspace
+* Open terminal
+* cd ~
+* xed .
+* [Source](https://twitter.com/mluisbrown/status/1013205101933146113?s=12)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL: “xed .” will open the Xcode workspace or project file in the current directory. So many hours wasted typing “open projectname.xcworkspace” 🤦‍♂️ <a href="https://twitter.com/hashtag/swiftlang?src=hash&amp;ref_src=twsrc%5Etfw">#swiftlang</a></p>&mdash; Michael Luís Brown (@mluisbrown) <a href="https://twitter.com/mluisbrown/status/1013205101933146113?ref_src=twsrc%5Etfw">June 30, 2018</a></blockquote> 
+
+
 ## Debugging
 
 ### Dotzu, In-app logging tool
