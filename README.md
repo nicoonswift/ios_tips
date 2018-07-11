@@ -23,6 +23,7 @@ Misc tips for iOS development
 * [Objc.io](https://www.objc.io/)
 * [Ray Wenderlich](https://www.raywenderlich.com/)
 * [Swift by Sundell](https://www.swiftbysundell.com/)
+* [Ole Begemann](https://oleb.net)
 
 ## Xcode
 
