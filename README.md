@@ -60,6 +60,19 @@ Misc tips for iOS development
 * Use NSDoubleLocalizedString as a launch argument
 * [Source](https://twitter.com/JordanMorgan10/status/976611947767521285)
 
+## Force Toggle Hardware Keyboard false (iOS Simulator)
+
+* Xcode 9.4.1
+* iOS 11.4.1
+* [Source](https://stackoverflow.com/questions/38010494/is-it-possible-to-toggle-software-keyboard-via-the-code-in-ui-test) 
+
+Add a _run script_ on UI Tests target:
+
+```
+/usr/libexec/PlistBuddy -c "Print :DevicePreferences" ~/Library/Preferences/com.apple.iphonesimulator.plist | perl -lne 'print $1 if /^    (\S*) =/' | while read -r a; do /usr/libexec/PlistBuddy -c "Set :DevicePreferences:$a:ConnectHardwareKeyboard
+false" ~/Library/Preferences/com.apple.iphonesimulator.plist || /usr/libexec/PlistBuddy -c  "Add :DevicePreferences:$a:ConnectHardwareKeyboard
+bool false" ~/Library/Preferences/com.apple.iphonesimulator.plist; done
+```
 
 ### Using Localized Strings
 * [Source](https://www.pixeldock.com/blog/how-to-use-your-localizable-strings-in-your-xcode-uitests/)
