@@ -28,6 +28,7 @@ Misc tips for iOS development
 ## Xcode
 
 ### Free HD space used by Xcode's derived data.
+* Xcode 9.4.1
 * Open terminal
 * cd ~/Library/Developer/Xcode
 * rm -rf DerivedData
