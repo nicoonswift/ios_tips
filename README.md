@@ -1,13 +1,14 @@
 # iOS development tips
 Misc tips for iOS development
-* [Best Practices](https://github.com/nigarcia88/ios_tips#best-practices)
-* [Swift](https://github.com/nigarcia88/ios_tips#swift)
-* [Xcode](https://github.com/nigarcia88/ios_tips#xcode)
-* [Debugging](https://github.com/nigarcia88/ios_tips#debugging)
-* [UI Testing](https://github.com/nigarcia88/ios_tips#ui-testing)
-* [App Store](https://github.com/nigarcia88/ios_tips#app-store)
-* [In-app purchases](https://github.com/nigarcia88/ios_tips#in-app-purchases)
-* [Apple](https://github.com/nigarcia88/ios_tips#apple)
+* [Best Practices](#best-practices)
+* [Swift](#swift)
+* [Xcode](#xcode)
+* [Debugging](#debugging)
+* [UI Testing](#ui-testing)
+* [App Store](#app-store)
+* [In-app purchases](#in-app-purchases)
+* [Apple](#apple)
+* [Fastlane](#fastlane)
 
 ## Best Practices
 
@@ -96,3 +97,10 @@ bool false" ~/Library/Preferences/com.apple.iphonesimulator.plist; done
 
 ## Apple
 * [System status](https://www.apple.com/support/systemstatus/)
+
+## Fastlane
+
+* [Version Control with AVG](https://developer.apple.com/library/archive/qa/qa1827/_index.html)
+* bundle exec fastlane beta
+* If you want to skip waiting for the processing to be finished, use the `skip_waiting_for_build_processing` option
+* [Unable to locate Xcode. Please make sure to have Xcode installed on your machine](https://github.com/fastlane/fastlane/issues/12263#issuecomment-379959724)
