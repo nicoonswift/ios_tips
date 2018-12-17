@@ -104,3 +104,32 @@ bool false" ~/Library/Preferences/com.apple.iphonesimulator.plist; done
 * bundle exec fastlane beta
 * If you want to skip waiting for the processing to be finished, use the `skip_waiting_for_build_processing` option
 * [Unable to locate Xcode. Please make sure to have Xcode installed on your machine](https://github.com/fastlane/fastlane/issues/12263#issuecomment-379959724)
+
+## Updating Ruby on macOS
+
+### WARNING: You are running Ruby 2.3.7, which is nearing end-of-life.
+
+The Google Cloud API clients work best on supported versions of Ruby. Consider upgrading to Ruby 2.4 or later.
+See https://www.ruby-lang.org/en/downloads/branches/ for more info on the Ruby maintenance schedule.
+To suppress this message, set the GOOGLE_CLOUD_SUPPRESS_RUBY_WARNINGS environment variable.
+
+Proceed with:
+
+* https://medium.com/@IanRahman/how-to-upgrade-ruby-on-a-mac-a592c6085c63
+* https://github.com/rvm/rvm/issues/4215
+* https://rvm.io/rvm/security
+
+### Could not find CFPropertyList-3.0.0 in any of the sources
+
+Your bundle is locked to json (1.8.3.1), but that version could not be found in
+any of the sources listed in your Gemfile. If you haven't changed sources, that
+means the author of json (1.8.3.1) has removed it. You'll need to update your
+bundle to a version other than json (1.8.3.1) that hasn't been removed in order
+to install.
+
+Proceed with:
+```
+$ bundle update
+```
+
+[Source](https://github.com/bundler/bundler/issues/4462)
