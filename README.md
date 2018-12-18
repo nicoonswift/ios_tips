@@ -137,8 +137,8 @@ $ bundle update
 
 # To Read
 
-http://www.joshholtz.com/altconf-fastlane-best-practices/
-
+* http://www.joshholtz.com/altconf-fastlane-best-practices/
+* https://medium.com/engineering-at-tink/buildkite-fastlane-the-key-to-better-sleep-for-ios-developers-2d01f429f95c
 
 
 
