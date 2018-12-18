@@ -9,6 +9,7 @@ Misc tips for iOS development
 * [In-app purchases](#in-app-purchases)
 * [Apple](#apple)
 * [Fastlane](#fastlane)
+* [To Read](#to-read)
 
 ## Best Practices
 
@@ -133,3 +134,11 @@ $ bundle update
 ```
 
 [Source](https://github.com/bundler/bundler/issues/4462)
+
+# To Read
+
+http://www.joshholtz.com/altconf-fastlane-best-practices/
+
+
+
+
