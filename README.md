@@ -9,6 +9,7 @@ Misc tips for iOS development
 * [In-app purchases](#in-app-purchases)
 * [Apple](#apple)
 * [Fastlane](#fastlane)
+* [CocoaPods](#cocoapods)
 * [To Read](#to-read)
 
 ## Best Practices
@@ -134,6 +135,43 @@ $ bundle update
 ```
 
 [Source](https://github.com/bundler/bundler/issues/4462)
+
+# CocoaPods
+
+Execute the following on your terminal to get the latest stable version:
+
+```
+$ sudo gem install cocoapods
+```
+
+Add --pre to get the latest pre release:
+
+```
+$ sudo gem install cocoapods --pre
+```
+
+You can check pod version using below command
+
+```
+$ pod --version
+```
+
+## Tips
+
+* https://www.cocoanetics.com/2014/07/development-pods/
+* https://blog.takescoop.com/improve-ios-ci-build-time-with-cocoapods-caching-4a049ee45e63
+
+## Pod Spec file validation
+
+```
+$ pod spec lint
+```
+
+For local development Pods
+
+```
+$ pod lib lint
+```
 
 # To Read
 
