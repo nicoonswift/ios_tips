@@ -175,6 +175,8 @@ $ pod lib lint
 
 ### Workarounds
 
+⚠️ Local development Pods not being correctly rebuild using Xcode10.1
+
 [Provide an installation option to disable usage of input/output paths. #8105](https://github.com/CocoaPods/CocoaPods/pull/8105)
 
 * Works with CocoaPods1.6.0.beta2
