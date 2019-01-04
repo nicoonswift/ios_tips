@@ -173,6 +173,17 @@ For local development Pods
 $ pod lib lint
 ```
 
+### Workarounds
+
+[Provide an installation option to disable usage of input/output paths. #8105](https://github.com/CocoaPods/CocoaPods/pull/8105)
+
+* Works with CocoaPods1.6.0.beta2
+* Add on the Podfile:
+
+```
+install! 'cocoapods', :disable_input_output_paths => true
+```
+
 # To Read
 
 * http://www.joshholtz.com/altconf-fastlane-best-practices/
