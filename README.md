@@ -136,7 +136,7 @@ $ bundle update
 
 [Source](https://github.com/bundler/bundler/issues/4462)
 
-# CocoaPods
+## CocoaPods
 
 Execute the following on your terminal to get the latest stable version:
 
@@ -156,12 +156,12 @@ You can check pod version using below command
 $ pod --version
 ```
 
-## Tips
+### Tips
 
 * https://www.cocoanetics.com/2014/07/development-pods/
 * https://blog.takescoop.com/improve-ios-ci-build-time-with-cocoapods-caching-4a049ee45e63
 
-## Pod Spec file validation
+### Pod Spec file validation
 
 ```
 $ pod spec lint
