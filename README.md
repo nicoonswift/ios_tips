@@ -50,6 +50,9 @@ Misc tips for iOS development
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">TIL: “xed .” will open the Xcode workspace or project file in the current directory. So many hours wasted typing “open projectname.xcworkspace” 🤦‍♂️ <a href="https://twitter.com/hashtag/swiftlang?src=hash&amp;ref_src=twsrc%5Etfw">#swiftlang</a></p>&mdash; Michael Luís Brown (@mluisbrown) <a href="https://twitter.com/mluisbrown/status/1013205101933146113?ref_src=twsrc%5Etfw">June 30, 2018</a></blockquote> 
 
+### Resolving merge conflicts on project.pbxproj file
+
+Use _.gitattributes_ file as described [here](https://roadfiresoftware.com/2015/09/automatically-resolving-git-merge-conflicts-in-xcodes-project-pbxproj/).
 
 ## Debugging
 
