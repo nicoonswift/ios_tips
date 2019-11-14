@@ -1,6 +1,7 @@
 # iOS development tips
 Misc tips for iOS development
 * [Best Practices](#best-practices)
+* [Testing](#testing)
 * [Swift](#swift)
 * [Xcode](#xcode)
 * [Debugging](#debugging)
@@ -16,6 +17,22 @@ Misc tips for iOS development
 
 * [iOS-Factor](https://ios-factor.com): A methodology for building high-quality iOS apps on a solid architecture
 * [Microfeatures Guidelines](https://github.com/xcode-project-manager/microfeatures-guidelines)
+
+## Testing
+
+### TestPlans
+
+To display all current testplans related to an scheme
+
+```
+xcodebuild -showTestPlans -scheme MY_SCHEME
+```
+
+To run the tests as configured in a testplan
+
+```
+$ xcodebuild -project MY_PROJECT.xcodeproj/ -scheme MY_SCHEME -destination 'platform=iOS Simulator,OS=13.3,name=iPhone Xs'  test -testPlan MY_TEST_PLAN
+```
 
 ## Swift
 
